@@ -1,0 +1,16 @@
+{
+  "name": "js-thymeleaf",
+  "version": "1.0.0",
+  "description": "Thymeleaf js implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bondarenko Artem",
+  "license": "ISC",
+  "repository": "git://github.com/codeplastique/js-thymeleaf",
+  "dependencies": {
+    "thymeleaf": "^0.20.4"
+  }
+}
